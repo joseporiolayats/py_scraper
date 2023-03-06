@@ -106,3 +106,4 @@ ENV/
 
 # poetry
 poetry.lock
+/.idea/
